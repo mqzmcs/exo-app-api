@@ -1,0 +1,114 @@
+{
+    "places": [
+      {
+        "id": 1,
+        "placeName": "Earth",
+        "location": "Solar System, Milky Way Galaxy",
+        "placeDescription": "A terrestrial rocky planet covered with oceans and a wide variety of life.",
+        "placeImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Earth_from_Space.jpg/1200px-Earth_from_Space.jpg",
+        "lifeName": "Humans",
+        "lifeDescription": "Relatively intelligent bipedal mammals capable of contemplating their own death. Addicted to chocolate and afternoon naps.",
+        "lifeImage": "https://static.demilked.com/wp-content/uploads/2022/02/funny-humans-doing-human-things-14.jpeg"
+      },
+      {
+        "id": 2,
+        "placeName": "Earth",
+        "location": "Solar System, Milky Way Galaxy",
+        "placeDescription": "LOTS OF TEXT HERE (description)",
+        "placeImage": "URL here",
+        "lifeName": "Humans",
+        "lifeDescription": "DESCRIBE HUMANS",
+        "lifeImage": "URL here"
+      },
+      {
+        "id": 1,
+        "placeName": "Earth",
+        "location": "Solar System, Milky Way Galaxy",
+        "placeDescription": "LOTS OF TEXT HERE (description)",
+        "placeImage": "URL here",
+        "lifeName": "Humans",
+        "lifeDescription": "DESCRIBE HUMANS",
+        "lifeImage": "URL here"
+      },
+      {
+        "id": 1,
+        "placeName": "Earth",
+        "location": "Solar System, Milky Way Galaxy",
+        "placeDescription": "LOTS OF TEXT HERE (description)",
+        "placeImage": "URL here",
+        "lifeName": "Humans",
+        "lifeDescription": "DESCRIBE HUMANS",
+        "lifeImage": "URL here"
+      },
+      {
+        "id": 1,
+        "placeName": "Earth",
+        "location": "Solar System, Milky Way Galaxy",
+        "placeDescription": "LOTS OF TEXT HERE (description)",
+        "placeImage": "URL here",
+        "lifeName": "Humans",
+        "lifeDescription": "DESCRIBE HUMANS",
+        "lifeImage": "URL here"
+      },
+      {
+        "id": 1,
+        "placeName": "Earth",
+        "location": "Solar System, Milky Way Galaxy",
+        "placeDescription": "LOTS OF TEXT HERE (description)",
+        "placeImage": "URL here",
+        "lifeName": "Humans",
+        "lifeDescription": "DESCRIBE HUMANS",
+        "lifeImage": "URL here"
+      },
+      {
+        "id": 1,
+        "placeName": "Earth",
+        "location": "Solar System, Milky Way Galaxy",
+        "placeDescription": "LOTS OF TEXT HERE (description)",
+        "placeImage": "URL here",
+        "lifeName": "Humans",
+        "lifeDescription": "DESCRIBE HUMANS",
+        "lifeImage": "URL here"
+      },
+      {
+        "id": 1,
+        "placeName": "Earth",
+        "location": "Solar System, Milky Way Galaxy",
+        "placeDescription": "LOTS OF TEXT HERE (description)",
+        "placeImage": "URL here",
+        "lifeName": "Humans",
+        "lifeDescription": "DESCRIBE HUMANS",
+        "lifeImage": "URL here"
+      },
+      {
+        "id": 1,
+        "placeName": "Earth",
+        "location": "Solar System, Milky Way Galaxy",
+        "placeDescription": "LOTS OF TEXT HERE (description)",
+        "placeImage": "URL here",
+        "lifeName": "Humans",
+        "lifeDescription": "DESCRIBE HUMANS",
+        "lifeImage": "URL here"
+      },
+      {
+        "id": 1,
+        "placeName": "Earth",
+        "location": "Solar System, Milky Way Galaxy",
+        "placeDescription": "LOTS OF TEXT HERE (description)",
+        "placeImage": "URL here",
+        "lifeName": "Humans",
+        "lifeDescription": "DESCRIBE HUMANS",
+        "lifeImage": "URL here"
+      },
+      {
+        "id": 1,
+        "placeName": "Earth",
+        "location": "Solar System, Milky Way Galaxy",
+        "placeDescription": "LOTS OF TEXT HERE (description)",
+        "placeImage": "URL here",
+        "lifeName": "Humans",
+        "lifeDescription": "DESCRIBE HUMANS",
+        "lifeImage": "URL here"
+      }
+    ]
+  }
