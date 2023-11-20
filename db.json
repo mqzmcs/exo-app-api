@@ -5,7 +5,7 @@
         "placeName": "Earth",
         "location": "Solar System, Milky Way Galaxy",
         "placeDescription": "A terrestrial rocky planet covered with oceans and a wide variety of life.",
-        "placeImage": "https://upload.wikimedia.org/wikipedia/commons/1/1f/As08-16-2593.jpg",
+        "placeImage": "https://cdn-ph-web.inkedone.com/lino-drieghe---winterfell---digitalart------29102017104530.jpg",
         "inhabitants": "Humans",
         "inhabitantsDescription": "Relatively intelligent bipedal mammals capable of contemplating their own death. Addicted to coffee and afternoon naps. Has a masochistic relationship with programming.",
         "inhabitantsImage": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Vitruvian_particular.gif"
@@ -48,7 +48,7 @@
         "placeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9qdEbiE7B-2zYd6_U642TEVQErNDNRaTrQ&usqp=CAU",
         "inhabitants": "Orcs and Trolls",
         "inhabitantsDescription": "Orc created from mud and very ugly creatures. They are useful in war has no value to no one.",
-        "inhabitantsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReUMg7O8qIjE-w9tyKbxZa3-1IaJJIMFV19g&usqp=CAU"
+        "inhabitantsImage": "https://thecriticaldragon.files.wordpress.com/2015/10/orcs-from-jacksons-adaptation-of-lotr.jpg"
       },
       {
         "id": 6,
@@ -75,17 +75,17 @@
         "placeName": "Rohan",
         "location": "Middle Earth",
         "placeDescription": "The land was known as 'Rohan' to the Men of Gondor, and its people the Rohirrim, meaning 'the Horse-lords', but the people of Rohan called themselves the Eorlingas, sons of Eorl the Young, first King of Rohan.",
-        "placeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTySuLUwM7l0L36lqrNRnisguH1lQRb6mGQ&usqp=CAU",
+        "placeImage": "https://artistmonkeys.com/wp-content/uploads/2021/10/Rohan-Edoras-landscape-1.jpg",
         "inhabitants": "Rohirrim",
         "inhabitantsDescription": "They are proud and willful, but they are true-hearted, generous in thought and deed; bold but not cruel; wise but unlearned, writing no books but singing many songs, after the manner of the children of Men before the Dark Years.",
-        "inhabitantsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAhzhJcTqFOI9tOtB0RdxOrMIzXwJpHWWzg&usqp=CAU"
+        "inhabitantsImage": "https://images.squarespace-cdn.com/content/v1/57b8372a15d5dbf599f77cb6/22de83bb-744c-4b79-acc6-6b0023e758f3/image-asset.jpeg"
       },
       {
         "id": 9,
         "placeName": "Tokyo",
         "location": "Earth, Japan",
         "placeDescription": "The political and financial capital of Japan, whose metropolitan population is nearly 50 million people. It has approximately 900 train and subway stations and nearly 40 millions passengers daily.",
-        "placeImage": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fowik357spzg71.jpg",
+        "placeImage": "https://www.uniquejapantours.com/wp-content/uploads/2017/09/Tokyo-Sun.jpg",
         "inhabitants": "Humans",
         "inhabitantsDescription": "An island people known as the 'Japanese' whose culture and society mostly developed in isolation.",
         "inhabitantsImage": "https://jref.com/attachments/scaleddsc_0930-jpg.81691/"
@@ -95,10 +95,10 @@
         "placeName": "Tatooine",
         "location": "Outer Rim, Tatoo system",
         "placeDescription": "Part of a binary star system, the planet orbited two scorching suns, resulting in the world lacking the necessary surface water to sustain large populations. As a result, many residents of the planet instead drew water from the atmosphere via moisture farms.",
-        "placeImage": "https://static.wikia.nocookie.net/starwars/images/b/b0/Tatooine_TPM.png/revision/latest?cb=20131019121937",
+        "placeImage": "https://live.staticflickr.com/3192/2786338234_b7c0605617_b.jpg",
         "inhabitants": "Jawa, Tusken Raider",
         "inhabitantsDescription": "Jawas were a sentient species of meter-tall furry humanoids native to the Outer Rim desert world of Tatooine. Jawas who migrated from Tatooine were referred to as Offworld Jawas.",
-        "inhabitantsImage": "https://static.wikia.nocookie.net/starwars/images/5/56/Jawas.png/revision/latest/scale-to-width-down/1000?cb=20200823212140"
+        "inhabitantsImage": "https://i.redd.it/what-do-the-tusken-raiders-jawas-of-the-star-wars-saga-most-v0-0adclsits0891.jpg?width=1200&format=pjpg&auto=webp&s=2353dbe215a57eccacbe180f1ac4900cec938ec8"
       }
     ]
   }
