@@ -1,104 +1,104 @@
 {
-    "places": [
-      {
-        "id": 1,
-        "placeName": "Earth",
-        "location": "Solar System, Milky Way Galaxy",
-        "placeDescription": "A terrestrial rocky planet covered with oceans and a wide variety of life.",
-        "placeImage": "https://spectrum.ieee.org/media-library/image.jpg?id=27044580",
-        "inhabitants": "Humans",
-        "inhabitantsDescription": "Relatively intelligent bipedal mammals capable of contemplating their own death. Addicted to coffee and afternoon naps. Has a masochistic relationship with programming.",
-        "inhabitantsImage": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Vitruvian_particular.gif"
-      },
-      {
-        "id": 2,
-        "placeName": "Winterfell",
-        "location": "The North, Seven Kingdoms, Westeros",
-        "placeDescription": "Ancestral home of House Stark, capital of and seat of power in the north.",
-        "placeImage": "https://cdn-ph-web.inkedone.com/lino-drieghe---winterfell---digitalart------29102017104530.jpg",
-        "inhabitants": "Northerners",
-        "inhabitantsDescription": "Hardy and rugged folk who enjoy winter sports and sunburn very severely and quickly.",
-        "inhabitantsImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/17/08/game-of-thrones-starks-in-winterfell.png"
-      },
-      {
-        "id": 3,
-        "placeName": "Skellige Isles",
-        "location": "An archipelago splitting the North Sea and Great Sea. One of the Northern Kingdoms west of Temeria.",
-        "placeDescription": "A harsh, cold, windy and mountainous chain of islands.",
-        "placeImage": "https://i.redd.it/p4ge5t86ck821.jpg",
-        "inhabitants": "Islanders",
-        "inhabitantsDescription": "Hardworking and determined people who aren't particularly polite or sophisticated but who have their own sort of rough charm.",
-        "inhabitantsImage": "https://i.imgur.com/cfVOvwI.jpg"
-      },
-      {
-        "id": 4,
-        "placeName": "Springfield",
-        "location": "Officially in an unknown state in the USA",
-        "placeDescription": "A satirically typical middle-American town that's a cross between an unremarkable middle-sized city and random cookie-cutter suburbia.",
-        "placeImage": "https://media.gazetadopovo.com.br/2012/04/4d5ed4dc4f586f54cc31684a822e10e4-gpLarge.jpg",
-        "inhabitants": "Undetermined",
-        "inhabitantsDescription": "Yellow, humanoid and presumably mammalian, typically characterized by having four fingers",
-        "inhabitantsImage": "https://cdn.mos.cms.futurecdn.net/VaNBsQCm2brLqVHmVAKEnn.jpg"
-      },
-      {
-        "id": 5,
-        "placeName": "Mordor",
-        "location": "Middle Earth",
-        "placeDescription": "Mordor; is the realm and base of the evil Sauron. It lay to the east of Gondor and the great river Anduin, and to the south of Mirkwood.",
-        "placeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9qdEbiE7B-2zYd6_U642TEVQErNDNRaTrQ&usqp=CAU",
-        "inhabitants": "Orcs and Trolls",
-        "inhabitantsDescription": "Orc created from mud and very ugly creatures. They are useful in war has no value to no one.",
-        "inhabitantsImage": "https://thecriticaldragon.files.wordpress.com/2015/10/orcs-from-jacksons-adaptation-of-lotr.jpg"
-      },
-      {
-        "id": 6,
-        "placeName": "Cooper Station",
-        "location": "Orbit of the Saturn, Solar System, Milky Way Galaxy",
-        "placeDescription": "Cooper station is a conical `o neill cylinder` structure hanging of the Saturn`s orbit. It is close to a wormhole and it is a refugee camp for Earth humans.",
-        "placeImage": "https://media2.spaceref.com/news/2014/NASA__Cutaway_view_of_Bernal_Sphere_1970_945.jpg",
-        "inhabitants": "Earth humans",
-        "inhabitantsDescription": "After nearly extintion of life on Earth, humans escaped from Earth and settled in the Cooper Station.",
-        "inhabitantsImage": "https://a.ltrbxd.com/resized/sm/upload/r4/0u/oq/0i/interstellar-1200-1200-675-675-crop-000000.jpg?v=fc649141b5"
-      },
-      {
-        "id": 7,
-        "placeName": "Gargantua",
-        "location": "Several weeks of spaceflight from the Wormhole near by Saturn.",
-        "placeDescription": "Gargantua is a very massive, rapidly spinning black hole. Used for slingshots by Nasa astronauts.",
-        "placeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF9hR7-vz6PhbUw5hCRIOcOn2JG8OaArm4OA&usqp=CAU",
-        "inhabitants": "No life forms",
-        "inhabitantsDescription": "By calculations of Kip Thorne, Gargantua is about 100 million solar masses, placing it firmly as a supermassive black hole. No life forms could survive inside of this black hole .",
-        "inhabitantsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkmG8MMbaQetENjeIC9FKOD90e-yg7E-1o-Q&usqp=CAU"
-      },
-      {
-        "id": 8,
-        "placeName": "Rohan",
-        "location": "Middle Earth",
-        "placeDescription": "The land was known as 'Rohan' to the Men of Gondor, and its people the Rohirrim, meaning 'the Horse-lords', but the people of Rohan called themselves the Eorlingas, sons of Eorl the Young, first King of Rohan.",
-        "placeImage": "https://artistmonkeys.com/wp-content/uploads/2021/10/Rohan-Edoras-landscape-1.jpg",
-        "inhabitants": "Rohirrim",
-        "inhabitantsDescription": "They are proud and willful, but they are true-hearted, generous in thought and deed; bold but not cruel; wise but unlearned, writing no books but singing many songs, after the manner of the children of Men before the Dark Years.",
-        "inhabitantsImage": "https://images.squarespace-cdn.com/content/v1/57b8372a15d5dbf599f77cb6/22de83bb-744c-4b79-acc6-6b0023e758f3/image-asset.jpeg"
-      },
-      {
-        "id": 9,
-        "placeName": "Tokyo",
-        "location": "Earth, Japan",
-        "placeDescription": "The political and financial capital of Japan, whose metropolitan population is nearly 50 million people. It has approximately 900 train and subway stations and nearly 40 millions passengers daily.",
-        "placeImage": "https://www.uniquejapantours.com/wp-content/uploads/2017/09/Tokyo-Sun.jpg",
-        "inhabitants": "Humans",
-        "inhabitantsDescription": "An island people known as the 'Japanese' whose culture and society mostly developed in isolation.",
-        "inhabitantsImage": "https://jref.com/attachments/scaleddsc_0930-jpg.81691/"
-      },
-      {
-        "id": 10,
-        "placeName": "Tatooine",
-        "location": "Outer Rim, Tatoo system",
-        "placeDescription": "Part of a binary star system, the planet orbited two scorching suns, resulting in the world lacking the necessary surface water to sustain large populations. As a result, many residents of the planet instead drew water from the atmosphere via moisture farms.",
-        "placeImage": "https://live.staticflickr.com/3192/2786338234_b7c0605617_b.jpg",
-        "inhabitants": "Jawa, Tusken Raider",
-        "inhabitantsDescription": "Jawas were a sentient species of meter-tall furry humanoids native to the Outer Rim desert world of Tatooine. Jawas who migrated from Tatooine were referred to as Offworld Jawas.",
-        "inhabitantsImage": "https://i.redd.it/what-do-the-tusken-raiders-jawas-of-the-star-wars-saga-most-v0-0adclsits0891.jpg?width=1200&format=pjpg&auto=webp&s=2353dbe215a57eccacbe180f1ac4900cec938ec8"
-      }
-    ]
-  }
+  "places": [
+    {
+      "id": 1,
+      "placeName": "Earth",
+      "location": "Solar System, Milky Way Galaxy",
+      "placeDescription": "A terrestrial rocky planet covered with oceans and a wide variety of life.",
+      "placeImage": "https://spectrum.ieee.org/media-library/image.jpg?id=27044580",
+      "inhabitants": "Humans",
+      "inhabitantsDescription": "Relatively intelligent bipedal mammals capable of contemplating their own death. Addicted to coffee and afternoon naps. Has a masochistic relationship with programming.",
+      "inhabitantsImage": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Vitruvian_particular.gif"
+    },
+    {
+      "id": 2,
+      "placeName": "Winterfell",
+      "location": "The North, Seven Kingdoms, Westeros",
+      "placeDescription": "Ancestral home of House Stark, capital of and seat of power in the north.",
+      "placeImage": "https://cdn-ph-web.inkedone.com/lino-drieghe---winterfell---digitalart------29102017104530.jpg",
+      "inhabitants": "Northerners",
+      "inhabitantsDescription": "Hardy and rugged folk who enjoy winter sports and sunburn very severely and quickly.",
+      "inhabitantsImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/17/08/game-of-thrones-starks-in-winterfell.png"
+    },
+    {
+      "id": 3,
+      "placeName": "Skellige Isles",
+      "location": "An archipelago splitting the North Sea and Great Sea. One of the Northern Kingdoms west of Temeria.",
+      "placeDescription": "A harsh, cold, windy and mountainous chain of islands.",
+      "placeImage": "https://i.redd.it/p4ge5t86ck821.jpg",
+      "inhabitants": "Islanders",
+      "inhabitantsDescription": "Hardworking and determined people who aren't particularly polite or sophisticated but who have their own sort of rough charm.",
+      "inhabitantsImage": "https://i.imgur.com/cfVOvwI.jpg"
+    },
+    {
+      "id": 4,
+      "placeName": "Springfield",
+      "location": "Officially in an unknown state in the USA",
+      "placeDescription": "A satirically typical middle-American town that's a cross between an unremarkable middle-sized city and random cookie-cutter suburbia.",
+      "placeImage": "https://media.gazetadopovo.com.br/2012/04/4d5ed4dc4f586f54cc31684a822e10e4-gpLarge.jpg",
+      "inhabitants": "Undetermined",
+      "inhabitantsDescription": "Yellow, humanoid and presumably mammalian, typically characterized by having four fingers",
+      "inhabitantsImage": "https://cdn.mos.cms.futurecdn.net/VaNBsQCm2brLqVHmVAKEnn.jpg"
+    },
+    {
+      "id": 5,
+      "placeName": "Mordor",
+      "location": "Middle Earth",
+      "placeDescription": "Mordor; is the realm and base of the evil Sauron. It lay to the east of Gondor and the great river Anduin, and to the south of Mirkwood.",
+      "placeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9qdEbiE7B-2zYd6_U642TEVQErNDNRaTrQ&usqp=CAU",
+      "inhabitants": "Orcs and Trolls",
+      "inhabitantsDescription": "Orc created from mud and very ugly creatures. They are useful in war has no value to no one.",
+      "inhabitantsImage": "https://thecriticaldragon.files.wordpress.com/2015/10/orcs-from-jacksons-adaptation-of-lotr.jpg"
+    },
+    {
+      "id": 6,
+      "placeName": "Cooper Station",
+      "location": "Orbit of the Saturn, Solar System, Milky Way Galaxy",
+      "placeDescription": "Cooper station is a conical `o neill cylinder` structure hanging of the Saturn`s orbit. It is close to a wormhole and it is a refugee camp for Earth humans.",
+      "placeImage": "https://media2.spaceref.com/news/2014/NASA__Cutaway_view_of_Bernal_Sphere_1970_945.jpg",
+      "inhabitants": "Earth humans",
+      "inhabitantsDescription": "After nearly extintion of life on Earth, humans escaped from Earth and settled in the Cooper Station.",
+      "inhabitantsImage": "https://a.ltrbxd.com/resized/sm/upload/r4/0u/oq/0i/interstellar-1200-1200-675-675-crop-000000.jpg?v=fc649141b5"
+    },
+    {
+      "id": 7,
+      "placeName": "Gargantua",
+      "location": "Several weeks of spaceflight from the Wormhole near by Saturn.",
+      "placeDescription": "Gargantua is a very massive, rapidly spinning black hole. Used for slingshots by Nasa astronauts.",
+      "placeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF9hR7-vz6PhbUw5hCRIOcOn2JG8OaArm4OA&usqp=CAU",
+      "inhabitants": "No life forms",
+      "inhabitantsDescription": "By calculations of Kip Thorne, Gargantua is about 100 million solar masses, placing it firmly as a supermassive black hole. No life forms could survive inside of this black hole .",
+      "inhabitantsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkmG8MMbaQetENjeIC9FKOD90e-yg7E-1o-Q&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "placeName": "Rohan",
+      "location": "Middle Earth",
+      "placeDescription": "The land was known as 'Rohan' to the Men of Gondor, and its people the Rohirrim, meaning 'the Horse-lords', but the people of Rohan called themselves the Eorlingas, sons of Eorl the Young, first King of Rohan.",
+      "placeImage": "https://artistmonkeys.com/wp-content/uploads/2021/10/Rohan-Edoras-landscape-1.jpg",
+      "inhabitants": "Rohirrim",
+      "inhabitantsDescription": "They are proud and willful, but they are true-hearted, generous in thought and deed; bold but not cruel; wise but unlearned, writing no books but singing many songs, after the manner of the children of Men before the Dark Years.",
+      "inhabitantsImage": "https://images.squarespace-cdn.com/content/v1/57b8372a15d5dbf599f77cb6/22de83bb-744c-4b79-acc6-6b0023e758f3/image-asset.jpeg"
+    },
+    {
+      "id": 9,
+      "placeName": "Tokyo",
+      "location": "Earth, Japan",
+      "placeDescription": "The political and financial capital of Japan, whose metropolitan population is nearly 50 million people. It has approximately 900 train and subway stations and nearly 40 millions passengers daily.",
+      "placeImage": "https://www.uniquejapantours.com/wp-content/uploads/2017/09/Tokyo-Sun.jpg",
+      "inhabitants": "Humans",
+      "inhabitantsDescription": "An island people known as the 'Japanese' whose culture and society mostly developed in isolation.",
+      "inhabitantsImage": "https://jref.com/attachments/scaleddsc_0930-jpg.81691/"
+    },
+    {
+      "id": 10,
+      "placeName": "Tatooine",
+      "location": "Outer Rim, Tatoo system",
+      "placeDescription": "Part of a binary star system, the planet orbited two scorching suns, resulting in the world lacking the necessary surface water to sustain large populations. As a result, many residents of the planet instead drew water from the atmosphere via moisture farms.",
+      "placeImage": "https://live.staticflickr.com/3192/2786338234_b7c0605617_b.jpg",
+      "inhabitants": "Jawa, Tusken Raider",
+      "inhabitantsDescription": "Jawas were a sentient species of meter-tall furry humanoids native to the Outer Rim desert world of Tatooine. Jawas who migrated from Tatooine were referred to as Offworld Jawas.",
+      "inhabitantsImage": "https://i.redd.it/what-do-the-tusken-raiders-jawas-of-the-star-wars-saga-most-v0-0adclsits0891.jpg?width=1200&format=pjpg&auto=webp&s=2353dbe215a57eccacbe180f1ac4900cec938ec8"
+    }
+  ]
+}
